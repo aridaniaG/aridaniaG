@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aridaniaG
-- 👀 I’m interested in cleaning data 
+- 👀 I’m interested in demonstrating my strength with my data science portfolio
 - 🌱 I’m currently learning Data Science
 
 <!---
