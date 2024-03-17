@@ -1,6 +1,4 @@
-I am a Data Analyst and Data Scientist Anthroplogist skilled in SQL, Python, R, & Tableau. I have experience using statistics and regression modeling to create insightful visualizations, dashboards, and presentations to find areas of improvement. I have a background with data wrangling, data visualization, and applying machine learning to big data.
-
-My background in Anthropology allows me to review issues with analytical knowledge and Anthropological thinking. I have experience solving complex problems with varying amounts/quality of data to predict possible solutions and aspire to present recommendations for business problems. I have thrived in high-pressure settings, developed strong, active communication skills, and used advanced Excel techniques for data analysis. 
+I am an adept Data Analyst and Data Scientist with a diverse background in data analytics, business strategy, and anthropology. Proficient in Python, SQL, R, and JMP, I leverage statistical analysis and regression modeling to create insightful visualizations and dashboards that drive informed decision-making. My experience spans data wrangling, visualization, and applying machine learning to big data, allowing me to solve complex problems and present actionable recommendations. With strong communication skills and expertise in advanced Excel techniques, I excel in high-pressure environments and thrive on delivering impactful solutions.
 
 Technical Skills
 Programming languages: R, Python, MySQL, SQL Server, SQLite, Visual Basic and JMP 
